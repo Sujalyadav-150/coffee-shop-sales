@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="dashboard.png" alt="Coffee Shop Sales Dashboard" width="900"/>
+  <img src="Screenshot 2024-02-15 143928.png" width="900"/>
 </p>
 
 ---
