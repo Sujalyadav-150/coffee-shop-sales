@@ -1,71 +1,69 @@
-# Coffee-Shop-sales
 ☕ Coffee Shop Sales Analysis
-
+📊 Dashboard Preview
 📌 Project Overview
 
-The main objective of this project is to analyze retail coffee shop sales data to gain actionable insights that help improve business performance.
-
-This project focuses on identifying customer behavior, sales trends, and product performance using data visualization.
+The Coffee Shop Sales Analysis project focuses on analyzing retail transaction data to uncover meaningful insights into customer behavior, product performance, and sales trends.
+The dashboard provides an interactive and visual representation of key business metrics, helping stakeholders make data-driven decisions.
 
 🎯 Objectives
-Analyze sales trends by day and hour
+Analyze sales trends across different hours and days
 Identify peak sales periods
-Evaluate monthly revenue performance
-Compare sales across different store locations
-Calculate average bill and order per customer
+Evaluate monthly and weekday performance
+Compare sales across store locations
+Measure average bill value and order frequency
 Identify top-selling products
-Analyze category-wise sales distribution
-
-(These objectives are derived from the project analysis section in your document.)
-
-📊 Dashboard Highlights
-🔢 Key Metrics
+Analyze category-wise sales contribution
+Understand order size distribution
+🔢 Key Performance Indicators (KPIs)
 Total Sales: $698,812.33
 Total Footfall: 149,116
-Avg Bill/Person: 4.69
-Avg Orders/Person: 1.44
+Average Bill per Person: 4.69
+Average Orders per Person: 1.44
+📈 Dashboard Insights
 ⏰ Sales by Hour
-Peak orders occur during morning hours (8 AM – 10 AM)
+Peak sales occur during morning hours (8 AM – 10 AM)
 Sales gradually decline after noon
+Indicates strong breakfast-time demand
 🗓️ Sales by Weekday
-Sales remain consistent throughout weekdays
+Sales are consistent across weekdays
 Slight increase observed on Fridays
+Weekends show stable performance
 🏬 Store Performance
 Hell’s Kitchen generates the highest revenue
 Astoria and Lower Manhattan also perform strongly
+Store-level insights help in resource allocation
 🥇 Top Selling Products
-Barista Espresso (Highest Sales)
+Barista Espresso (highest sales)
 Brewed Chai Tea
 Hot Chocolate
 Gourmet Brewed Coffee
 Brewed Black Tea
 📦 Category Distribution
-Coffee dominates sales (~39%)
-Tea and Bakery also contribute significantly
+Coffee dominates (~39%)
+Tea and Bakery contribute significantly
 Other categories have smaller shares
 📏 Order Size Distribution
-Regular and Large sizes dominate (~60%)
-Small size orders are relatively low
+Regular and Large sizes (~60%) dominate
+Small size orders are comparatively lower
 🛠️ Tools & Technologies
-Excel / Power BI – Data visualization & dashboard creation
-Data Analysis Techniques – Aggregation, filtering, KPI analysis
-📁 Dataset
-Contains transaction-level data including:
-Order details
-Product categories
+Power BI / Excel – Dashboard creation & visualization
+Data Analysis Techniques – Aggregation, filtering, KPI tracking
+Data Cleaning & Transformation
+📁 Dataset Description
+
+The dataset contains transaction-level data including:
+
+Order ID and transaction details
+Product categories and item names
 Store locations
-Time & date information
-🚀 Insights & Business Recommendations
+Date and time information
+Quantity and sales values
+🚀 Business Recommendations
 Increase staffing during morning peak hours
 Promote high-performing products like espresso
-Offer discounts on low-performing categories
-Optimize inventory based on store-wise demand
-Introduce combos to increase average order value
-This project demonstrates how data analysis can help a coffee shop:
+Provide offers on low-performing categories
+Optimize inventory based on store demand
+Introduce combo deals to improve average order value
 💡 Conclusion
 
-This project demonstrates how data analysis can help a coffee shop:
-
-Understand customer behavior
-Optimize operations
-Improve sales and profitability
+This project demonstrates how data visualization and analysis can help a coffee shop optimize operations, improve customer experience, and maximize revenue through data-driven decision-making.
