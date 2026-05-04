@@ -2,8 +2,9 @@
 
 ## 📊 Dashboard Preview
 
+
 <p align="center">
-  <img src="C:\Users\hp\Downloads\Screenshot (684).jpg" alt="Coffee Shop Sales Dashboard" width="900"/>
+  <img src="dashboard.png" alt="Coffee Shop Sales Dashboard" width="900"/>
 </p>
 
 ---
