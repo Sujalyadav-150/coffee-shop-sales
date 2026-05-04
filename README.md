@@ -1,6 +1,6 @@
-## ☕ Coffee Shop Sales Analysis
+# ☕ Coffee Shop Sales Analysis
 
-### 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 <p align="center">
   <img src="dashboard.png" alt="Coffee Shop Sales Dashboard" width="900"/>
@@ -11,6 +11,7 @@
 ## 📌 Project Overview
 
 The Coffee Shop Sales Analysis project focuses on analyzing retail transaction data to uncover meaningful insights into customer behavior, product performance, and sales trends.
+
 The dashboard provides an interactive and visual representation of key business metrics, helping stakeholders make data-driven decisions.
 
 ---
