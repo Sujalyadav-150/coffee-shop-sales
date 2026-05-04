@@ -3,7 +3,9 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dash
+  <img src="dashboard.png" alt="Coffee Shop Sales Dashboard" width="900"/>
+</p>
+
 ---
 
 ## 📌 Project Overview
