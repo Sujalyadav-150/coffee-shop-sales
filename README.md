@@ -3,9 +3,7 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshot (701).png" width="900"/>
-</p>
-
+  <img src="dash
 ---
 
 ## 📌 Project Overview
