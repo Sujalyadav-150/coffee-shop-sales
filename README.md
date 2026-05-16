@@ -26,7 +26,7 @@ Track shortened URLs, clicks, engagement metrics, and performance analytics.
 
 ## 🔥 Prometheus Dashboard
 
-![Prometheus Dashboard](images/prometheus.png)
+![Prometheus](images/prometheus.png)
 
 Prometheus collects real-time application and system metrics for monitoring.
 
@@ -34,8 +34,7 @@ Prometheus collects real-time application and system metrics for monitoring.
 
 ## 📉 Grafana Dashboard
 
-![Grafana Dashboard](images/grafana.png)
-
+![Grafana](images/grafana.png)
 Grafana visualizes CPU, RAM, disk, and application performance metrics through interactive dashboards.
 
 ---
