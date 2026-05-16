@@ -1,82 +1,117 @@
-# NexusURL – Futuristic URL Shortener & Analytics Platform
+# ☕ Coffee Shop Sales Analysis Dashboard
 
-A modern URL shortener with QR code generation, analytics dashboard, and real-time monitoring using Prometheus & Grafana.
-
----
-
-# 🚀 Website Interface
-
-## 🏠 Home Page
-
-![Home Page](images/home.png)
-
-Modern cyberpunk-inspired landing page for shortening URLs and generating QR codes instantly.
+<p align="center">
+  <img src="./Screenshot (684)(5).png" width="1000"/>
+</p>
 
 ---
 
-## 📊 Analytics Dashboard
+## 📌 Project Overview
 
-![Analytics Dashboard](images/analytics.png)
+An interactive **Coffee Shop Sales Analysis Dashboard** built using **Excel and Data Analytics techniques** to analyze sales performance across multiple store locations.
 
-Track shortened URLs, clicks, engagement metrics, and performance analytics.
+The dashboard provides valuable insights into:
+- 📈 Sales trends
+- 🧾 Customer footfall
+- 🕒 Peak order hours
+- 🛍️ Top-selling products
+- 📅 Weekday ordering behavior
 
----
-
-# 📈 Monitoring & Observability
-
-## 🔥 Prometheus Dashboard
-
-![Prometheus](images/prometheus.png)
-
-Prometheus collects real-time application and system metrics for monitoring.
+This project helps identify business opportunities and improve operational efficiency through data-driven insights.
 
 ---
 
-## 📉 Grafana Dashboard
+# 🧩 Key Business Insights
 
-![Grafana](images/grafana.png)
-Grafana visualizes CPU, RAM, disk, and application performance metrics through interactive dashboards.
-
----
-
-# ✨ Features
-
-- 🚀 Instant URL shortening
-- 🔗 QR code generation
-- 📊 Click analytics
-- ⚡ Fast redirection
-- 📱 Responsive cyberpunk UI
-- 📈 Prometheus monitoring
-- 📉 Grafana dashboards
-- 🖥️ Node Exporter integration
+- Analyzed multi-location coffee shop sales to identify performance gaps.
+- Identified peak sales hours and busiest weekdays.
+- Tracked top-performing products based on total sales.
+- Compared store-wise footfall and revenue generation.
+- Built KPI dashboards for sales monitoring and performance tracking.
+- Provided actionable insights for improving business efficiency.
 
 ---
 
-# 🛠️ Technology Stack
+# 📊 Dashboard Features
 
-## Backend
-- Java 17
-- Spring Boot
-- Spring Data MongoDB
-- MongoDB
-- REST APIs
+## 🔷 KPI Cards
+The dashboard tracks important business metrics such as:
 
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-
-## Monitoring
-- Prometheus
-- Grafana
-- Node Exporter
+- 💰 Total Sales
+- 👣 Total Footfall
+- 🧾 Average Bill Per Person
+- ☕ Average Orders Per Person
 
 ---
 
-# ⚙️ Installation
+## 🔷 Interactive Filters
 
-```bash
-git clone https://github.com/sujal/nexusurl.git
-cd nexusurl
-mvn spring-boot:run
+Dynamic slicers were added for:
+
+- 📅 Month Name
+- 📆 Day Name
+
+These filters allow users to interactively explore sales data.
+
+---
+
+## 🔷 Visualizations Included
+
+### 📈 Quantity Ordered Based on Hours
+- Identifies peak ordering hours during the day.
+- Helps optimize staffing and operations.
+
+### 🥧 Category-wise Sales Distribution
+- Displays contribution of product categories toward total sales.
+
+### 🥤 Size Distribution Based on Orders
+- Shows customer preference for product sizes.
+
+### 🏪 Store-wise Footfall & Sales
+- Compares performance across store locations.
+
+### 🔥 Top 5 Products Based on Sales
+- Highlights highest revenue-generating products.
+
+### 📅 Orders on Weekdays
+- Analyzes ordering trends across weekdays.
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Data Cleaning
+- Data Visualization
+
+---
+
+# 🎨 Dashboard Design
+
+- Modern and clean UI layout
+- Interactive dashboard components
+- Business-friendly visual storytelling
+- Easy-to-understand charts and KPIs
+
+---
+
+# 🚀 Key Outcomes
+
+✅ Improved understanding of customer behavior  
+✅ Identified top-performing products and stores  
+✅ Tracked operational trends effectively  
+✅ Enabled data-driven business decisions  
+
+---
+
+# 🙌 Author
+
+**Sujal Yadav**
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
