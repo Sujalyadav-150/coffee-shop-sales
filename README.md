@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Analysis Dashboard
 
 <p align="center">
-  <img src="./Screenshot (684)(5).png" width="1000"/>
+  <img src="Screenshot 2024-02-15 143928.png" width="1000"/>
 </p>
 
 ---
